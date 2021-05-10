@@ -1,4 +1,6 @@
-[![Documentation Status](https://readthedocs.org/projects/opentishpiel/badge/?version=latest)](https://opentishpiel.readthedocs.io/en/latest/?badge=latest)
+.. image:: https://readthedocs.org/projects/opentishpiel/badge/?version=latest
+:target: https://opentishpiel.readthedocs.io/en/latest/?badge=latest
+:alt: Documentation Status
 
 Template
 ========
