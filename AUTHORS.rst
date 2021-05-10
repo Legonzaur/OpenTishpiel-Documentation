@@ -1,7 +1,7 @@
 Authors
 -------
 
-* Eric (New contributor)
-* Anthony 
-
-
+* Nathan TIEN YOU
+* Arthur COPPEY
+* Leo DELPON
+* Rémi ROLLAIS 
