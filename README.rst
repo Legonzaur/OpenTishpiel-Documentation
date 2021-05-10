@@ -1,3 +1,5 @@
+[![Documentation Status](https://readthedocs.org/projects/opentishpiel/badge/?version=latest)](https://opentishpiel.readthedocs.io/en/latest/?badge=latest)
+
 Template
 ========
 
