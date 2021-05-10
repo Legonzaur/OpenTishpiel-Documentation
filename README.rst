@@ -1,6 +1,4 @@
 .. image:: https://readthedocs.org/projects/opentishpiel/badge/?version=latest
-:target: https://opentishpiel.readthedocs.io/en/latest/?badge=latest
-:alt: Documentation Status
 
 Template
 ========
